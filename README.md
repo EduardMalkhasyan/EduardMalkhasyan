@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub contributions](https://github-readme-stats.vercel.app/api?username=EduardMalkhasyan)](https://github.com/EduardMalkhasyan)
 
 <!--
 **EduardMalkhasyan/EduardMalkhasyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
