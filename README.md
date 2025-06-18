@@ -1,3 +1,3 @@
 ### Wsap! 🤙
 
-Welcome to my GitHub — feel free to look around 🚀
+Welcome to my GitHub — feel free to look around ❤️
